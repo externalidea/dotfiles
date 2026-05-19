@@ -2,9 +2,7 @@
 
 Personal dotfiles backup. Deployed via **GNU Stow**.
 
-## ⚠️ Important Note: Hidden Directories (`.dotfiles`)
-
-Stow mirrors the exact structure of your home directory (`~`). 
+#### Stow mirrors the exact structure of your home directory (`~`). 
 ---
 
 ## Deployment
